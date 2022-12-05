@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "alice",
+    "name": "Alice",
+    "description": "Best client",
+    "version": "1.0.1",
+    "mcversion": "1.12.2",
+	"logoFile": "LuigiA.png",
+    "url": "https://discord.gg/EtTGvzt3nS",
+    "updateUrl": "https://discord.gg/EtTGvzt3nS",
+    "authorList": [
+      "snow awa",
+       "Alice"
+
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
